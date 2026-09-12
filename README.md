@@ -1,6 +1,6 @@
 # Mac
 
-VB6 GetEthAdr utility (project `GetMacAdr`) that uses NetBIOS NCB `ASTAT` to read the local adapter MAC address and shows the six hex octets in a message box from a single Address button. Same NetBIOS ASTAT pattern as the getmacadr tree.
+VB6 GetEthAdr utility (project `GetMacAdr`) that uses NetBIOS NCB `ASTAT` (`NCBASTAT`) to read the local adapter MAC address and shows the six hex octets in a message box from a single Address button. Same NetBIOS ASTAT pattern as the getmacadr tree.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
